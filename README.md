@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Nurin Batrisyia Husna 
+
+- 🌱 I’m currently in my Bacholer of Computer Science (Graphic and Multimedia Software) with Hou 
+- 📫 How to reach me: nurinbhusna@gmail.com
 
 <!--
 **nurinbatrisyiahusna/nurinbatrisyiahusna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
