@@ -10,7 +10,7 @@
 - SECJ1013 Programming Techniques I
 - SECR1013 Digital Logic
 - SECP1513 Technology and Information Systems
-- ULRS1032 Kursus Integriti dan Anti-Rasuah (Integrity and Anti-Corruption Course)
+- ULRS1032 Integrity and Anti-Corruption Course
 
  ## Languages and Tools:
 
