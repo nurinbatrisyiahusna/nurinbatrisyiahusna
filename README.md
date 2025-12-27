@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nurin Batrisyia Husna 
+## Hi there 👋 I'm Nurin Batrisyia Husna
 
 - 🎓 I’m currently in my Bacholer of Computer Science (Graphic and Multimedia Software) with Honours at Universiti Teknologi Malaysia
 - 🌱 I’m currently learning C++
