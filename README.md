@@ -5,6 +5,9 @@
 - 👩🏻‍💻 I'm interested in becoming an AR/VR developer
 - 📫 How to reach me: nurinbhusna@gmail.com
 
+## My Skills
+Soft Skills: Teamwork, Communication, Critical Thinking, Time Management, Proble-Solving
+
 ##  My Courses
 - SECI1013 Discrete Structure
 - SECJ1013 Programming Techniques I
