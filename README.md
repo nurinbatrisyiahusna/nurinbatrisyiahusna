@@ -2,7 +2,7 @@
 
 - 🎓 I’m currently in my Bacholer of Computer Science (Graphic and Multimedia Software) with Honours at Universiti Teknologi Malaysia
 - 🌱 I’m currently learning C++
-- 👩🏻‍💻 I'm interested in becoming an AR/VR developer
+- 👩🏻‍💻 My goal is to build a career within my field.
 - 📫 How to reach me: nurinbhusna@gmail.com
 
 ## My Skills
